@@ -7600,19 +7600,19 @@
       "abr": "bardspell:battlehymn",
       "category": "Scrolls",
       "defname": "SpellOf_BattleHymn",
-      "price": 2750
+      "price": -10
     },
     {
       "abr": "bardspell:discord",
       "category": "Scrolls",
       "defname": "SpellOf_Discord",
-      "price": 1267
+      "price": -10
     },
     {
       "abr": "bloodmagespell:bloodmoon",
       "category": "Scrolls",
       "defname": "SpellOf_BloodMoon",
-      "price": 3750
+      "price": -10
     },
     {
       "abr": "bracersofdefense",
@@ -8500,7 +8500,7 @@
       "abr": "staffofblazingpower",
       "category": "Magic foci",
       "defname": "TM_BlazingPowerStaff",
-      "price": 6250
+      "price": -10
     },
     {
       "abr": "staffofthedefender",
@@ -8896,19 +8896,19 @@
       "abr": "barrothlanceshield",
       "category": "Shields",
       "defname": "MH_Shield_BarrothL",
-      "price": 692
+      "price": -10
     },
     {
       "abr": "barrothleather",
       "category": "Leathers",
       "defname": "Leather_Barroth",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "barrothmeat",
       "category": "Meat",
       "defname": "Meat_Barroth",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "barrothstinger",
@@ -8920,13 +8920,13 @@
       "abr": "bazelbuster",
       "category": "Ranged weapons",
       "defname": "MH_Gunlance_Bazel",
-      "price": 2300
+      "price": -10
     },
     {
       "abr": "bazeltyphoon",
       "category": "Ranged weapons",
       "defname": "MH_Lightbowgun_Bazel",
-      "price": 2025
+      "price": -10
     },
     {
       "abr": "bazelgeuse",
@@ -8938,31 +8938,31 @@
       "abr": "bazelgeuseegg",
       "category": "Eggs (fert.)",
       "defname": "EggBazelFertilized",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "bazelgeusegunlanceshield",
       "category": "Shields",
       "defname": "MH_Shield_BazelGL",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "bazelgeuseleather",
       "category": "Leathers",
       "defname": "Leather_Bazel",
-      "price": 26
+      "price": -10
     },
     {
       "abr": "bazelgeusemeat",
       "category": "Meat",
       "defname": "Meat_Bazelgeuse",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "bbqspit",
       "category": "Production",
       "defname": "BBQSpit",
-      "price": 65
+      "price": -10
     },
     {
       "abr": "berserkersword",
