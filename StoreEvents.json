@@ -1,4 +1,6 @@
-
+{
+	"incitems" : [
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
