@@ -1,6 +1,4 @@
-{
-	"incitems" : [
-	{
+
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -66,11 +64,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "psychicdrone",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "psychicsoothe",
 		"price": 250,
 		"karmatype": "Good"
@@ -126,24 +119,9 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
@@ -306,5 +284,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 61
+	"total": 57
 }
