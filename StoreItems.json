@@ -904,7 +904,7 @@
       "abr": "pork",
       "category": "Meat",
       "defname": "Meat_Pig",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "chickenmeat",
@@ -1882,7 +1882,7 @@
       "abr": "espressomachine",
       "category": "Production",
       "defname": "VBE_EspressoMachineBuilding",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "lemons",
@@ -2974,7 +2974,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "cratea2",
@@ -2986,7 +2986,7 @@
       "abr": "pemmican",
       "category": "Foods",
       "defname": "Pemmican",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "cratea",
@@ -3538,7 +3538,7 @@
       "abr": "brazier",
       "category": "Furniture",
       "defname": "Brazier",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "medicine",
@@ -3610,7 +3610,7 @@
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "advancedcomponent",
@@ -3718,7 +3718,7 @@
       "abr": "hay",
       "category": "Foods",
       "defname": "Hay",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "aestheticshaper",
@@ -4156,7 +4156,7 @@
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "synthread",
@@ -4282,7 +4282,7 @@
       "abr": "plainleather",
       "category": "Leathers",
       "defname": "Leather_Plain",
-      "price": -10
+      "price": 15
     },
     {
       "abr": "polarbear",
@@ -4612,7 +4612,7 @@
       "abr": "slateblocks",
       "category": "Stone blocks",
       "defname": "BlocksSlate",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "limestoneblocks",
@@ -4666,7 +4666,7 @@
       "abr": "platearmor",
       "category": "Armor",
       "defname": "Apparel_PlateArmor",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "jacket",
@@ -8080,13 +8080,13 @@
       "abr": "riothelmet",
       "category": "Headgear",
       "defname": "VFE_Apparel_RiotHelmet",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "riotshield",
       "category": "Shields",
       "defname": "VFEI_Shield_Riot",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "rockhopperpenguin",
@@ -11404,7 +11404,7 @@
       "abr": "ballisticshield",
       "category": "Shields",
       "defname": "CE_Apparel_BallisticShield",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "bandwidthpack",
@@ -13252,13 +13252,13 @@
       "abr": "divinium",
       "category": "Raw resources",
       "defname": "CODZP_Divinium",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "diviniumchunk",
       "category": "Stone chunks",
       "defname": "CODZP_DiviniumChunk",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "djinn",
@@ -14566,7 +14566,7 @@
       "abr": "hemogenpack",
       "category": "Foods",
       "defname": "HemogenPack",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "hemopump",
@@ -17698,7 +17698,7 @@
       "abr": "sofa",
       "category": "Furniture",
       "defname": "DocStu_Sofa",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "softarmorvest",
